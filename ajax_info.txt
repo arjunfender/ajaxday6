@@ -1,0 +1,7 @@
+<h1> AJAX </h1>
+<p > AJAX is not a programming language.
+
+AJAX just uses a combination of:</p>
+
+
+
